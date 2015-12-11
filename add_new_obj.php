@@ -1,5 +1,6 @@
 <?php
-  /* This file handles file upload and metadata creating. */
+  /* This file handles file upload and metadata creation of the page add_obj_form. */
+  
   require_once('repository_fns.php');
   session_start();
   
