@@ -1,5 +1,5 @@
 <?php
-/* This file handles the content of add_related_file page. */
+/* This file handles the content of the page add_related_file. */
   
   require_once('repository_fns.php');
   
