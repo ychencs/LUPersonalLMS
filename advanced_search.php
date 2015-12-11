@@ -1,5 +1,5 @@
 <?php
-/* This file handles the content of the page advanced_search. */
+/* This file handles the content of advanced search page. */
 
   require_once('repository_fns.php');
   session_start();
