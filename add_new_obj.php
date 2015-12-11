@@ -1,5 +1,5 @@
 <?php
-  /* This script handles file upload and metadata creating. */
+  /* This file handles file upload and metadata creating. */
   require_once('repository_fns.php');
   session_start();
   
