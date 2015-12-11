@@ -1,5 +1,5 @@
 <?php
-  /* This file handles file upload and metadata creation functions of add_related_file page. */
+  /* This file handles file upload and metadata creation functions of the page add_related_file. */
   
   require_once('repository_fns.php');
   session_start();
