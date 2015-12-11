@@ -1,5 +1,5 @@
 <?php
-/* This file handles the page content of update file. */
+/* This file handles the page content of updating a file related to a certain learning object. */
 
   require_once('repository_fns.php');
   
